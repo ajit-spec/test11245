@@ -22,3 +22,29 @@ This is a MEAN stack application, which uses:
 ```bash
 git clone https://github.com/yourusername/mean-stack-app.git
 ```
+
+2. Install dependencies
+
+```bash
+npm install
+```
+
+3. Create a `.env` file in the root directory and add the following:
+
+```bash
+MONGO_URI=mongodb://localhost:27017/mean-stack-app
+PORT=3000
+NODE_ENV=development
+```
+
+4. Start the server
+
+```bash
+npm start
+```
+
+5. Start the Angular application
+
+```bash
+npm run start
+```
