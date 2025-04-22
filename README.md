@@ -18,3 +18,7 @@ This is a MEAN stack application, which uses:
 ## Installation
 
 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/mean-stack-app.git
+```
